@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bagliListeGiris/bagliListeGiris.iml" filepath="$PROJECT_DIR$/bagliListeGiris/bagliListeGiris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dugumOlustur/dugumOlustur.iml" filepath="$PROJECT_DIR$/dugumOlustur/dugumOlustur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mucitYaz.iml" filepath="$PROJECT_DIR$/mucitYaz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tekYonluBasaSonaEkleme/tekYonluBasaSonaEkleme.iml" filepath="$PROJECT_DIR$/tekYonluBasaSonaEkleme/tekYonluBasaSonaEkleme.iml" />
+    </modules>
+  </component>
+</project>
