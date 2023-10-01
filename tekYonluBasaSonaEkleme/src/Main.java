@@ -8,6 +8,14 @@ public class Main {
         tyList.basaEkle(3);
         tyList.sonaEkle(40);
 
+        //tyList.arayaEkle(4,25);
+        //tyList.arayaEkle(0,1);
+        //tyList.arayaEkle(8,50);
+
+        //tyList.bastanSil();
+       //tyList.sondanSil();
+
+        tyList.aradanSil(3);
         tyList.yazdir();
 
     }
